@@ -1,1 +1,0 @@
-El codigo de inicio simpre tiene que estar cargado en la pagina 0, ya que en esta posicion de memoria se carga la ROM de arranque y sin este codigo no iniciaria
