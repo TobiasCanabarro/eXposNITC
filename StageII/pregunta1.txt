@@ -1,0 +1,1 @@
+La necesidad de esta duplicacion se debe, ha que en la tabla de inodos se almacena la informacion como el tipo de archivo, el nombre, el peso, id del usuario, el permiso y los numeros de bloque de los bloques de datos del archivo. En el caso del archivo root se tiene una entrada por cada archivo que persiste en el disco.
