@@ -1,0 +1,12 @@
+alias counter R0;
+alias index R1;
+alias acum  R2;
+index = 1;
+acum = 0;
+counter = 1;
+while(index <= 20) do
+      acum = acum + index * index;
+      index = index + 1;
+      print acum;
+      acum = 0;
+  endwhile;
